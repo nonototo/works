@@ -79,7 +79,7 @@
 - Plataforma de blogs Orange (para sustituir wl wordpress se desarrollo una plataforma de blogs corporativa)
 - Pruebas de juego via streaming en TV
 
-## eCliente
+## [eCliente](https://www.ecliente.com/)
 
 - CMS (clases/objetos/versiones) [CMS](https://www.ecliente.com/productos/gestorweb/) (Perl back + js front)
 - CRM (ONGs) [CRM](https://www.ecliente.com/productos/australia/) (Perl back + js front)
@@ -90,7 +90,7 @@
 - Infraestructura (Francia y Alemania) (servidores, balanceos, caches, backups, monitorización, raids, ...)
 - Portal happinessplay (Backoffice realizado en javascript (front/back))
 
-## Grupo Z
+## [Grupo Z](http://www.grupozeta.es/)
 
 - CMS corporativo (php + backoffice en javascript) (Gestiona más de 1 millón de imágenes/videos/artículos)
 - Collages https://xa.bi/xabi_collage/
@@ -116,7 +116,7 @@
 - Bookmarklet para text areas https://xa.bi/textarea_editor.html
 - Conversor de videos -> dash
 
-## Personal
+## [Personal](https://xa.bi)
 
 - Mapas calor zonas de interes https://xa.bi/likemap.com/
 - Bots Telegram
