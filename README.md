@@ -4,6 +4,7 @@
 * mail      mail@xa.bi xabier@gmail.com
 * linkedin  https://linkedin.com/in/xabivazquez
 * github    https://github.com/xa-bi/
+* codewars  https://www.codewars.com/users/xa_bi
 * twitter   https://twitter.com/xabi
 * youtube   https://youtube.com/xabi
 * instagram https://instagram.com/xabier
@@ -120,8 +121,8 @@
 
 - Mapas calor zonas de interes https://xa.bi/likemap.com/
 - Bots Telegram
-  - BMW directo (bot que notifica de nuevas ofertas de coches en tiempo real) Image
-  - Wallapop (Localiza productos en wallapop y notifica en cuanto sale a la venta uno que interese) Image
+  - BMW directo (bot que notifica de nuevas ofertas de coches en tiempo real) [Image](https://github.com/xa-bi/works/blob/master/bmw.png)
+  - Wallapop (Localiza productos en wallapop y notifica en cuanto sale a la venta uno que interese) [Image](https://github.com/xa-bi/works/blob/master/wallapop.png)
 - Estapedro.info
   - Vision artificial https://estapedro.info/
     - Actualmente inactivo (Usando vision artificial permitía saber si Pedro estaba en su despacho)
