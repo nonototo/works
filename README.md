@@ -1,7 +1,7 @@
 # Xabi Vázquez Gallardo
 
-* location  Villaviciosa de Odón, Madrid
-* mail      mail@xa.bi xabier@gmail.com
+* location  [Villaviciosa de Odón, Madrid](https://goo.gl/maps/py1YfEb9Jot)
+* mail      mail[at]xa.bi xabier[at]gmail.com
 * linkedin  https://linkedin.com/in/xabivazquez
 * github    https://github.com/xa-bi/
 * codewars  https://www.codewars.com/users/xa_bi
